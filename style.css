@@ -1,0 +1,97 @@
+body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url('img/pexels-miyatavictor-1824273.jpg'); /* Um fundo suave */
+      color: #333;
+  }
+  
+header {
+      background: #79119e; 
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra para profundidade */
+}
+  
+h1 {
+      margin: 0;
+      font-size: 2.5em;
+      font-family: 'Arial', sans-serif; /* Fonte criativa */
+}
+  
+section {
+      padding: 40px;
+      margin: 20px auto;
+      max-width: 800px;
+      background: #ffffff; /* Fundo branco para contraste */
+      border-radius: 15px;
+      box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1); /* Sombra suave */
+      transition: transform 0.3s; /* Efeito de transição */
+}
+  
+section:hover {
+      transform: scale(1.02); /* Efeito de aumento ao passar o mouse */
+}
+  
+h2 {
+      margin-top: 0;
+      font-size: 2em;
+      color: #79119e; /* Cor vibrante para subtítulos */
+}
+  
+.projeto {
+      margin: 20px 0;
+      padding: 20px;
+      border: 2px dashed #79119e; /* Bordas criativas e coloridas */
+      border-radius: 10px;
+      background: #f9f9f9; /* Fundo leve para os projetos */
+}
+  
+footer {
+      text-align: center;
+      padding: 20px 0;
+      background: #79119e;
+      color: #fff;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+}
+  
+#redes-sociais {
+      margin-top: 10px;
+}
+  
+#redes-sociais a {
+      text-decoration: none;
+      color: #fff;
+      margin: 0 15px;
+      font-size: 1.2em; /* Aumentar o tamanho dos ícones */
+      transition: color 0.3s; /* Efeito de transição ao passar o mouse */
+}
+  
+#redes-sociais a:hover {
+      color: #ffeb3b; /* Cor vibrante ao passar o mouse */
+}
+
+#span1{
+    transition: 1s;
+}
+
+
+#span1:hover{
+    transition: 1s;
+    font-size: 20pt;
+    color:#79119e;
+}
+
+#span2{
+    transition: 1s;
+}
+
+#span2:hover{
+    transition: 1s;
+    font-size: 20pt;
+    color:#79119e;
+}
+
